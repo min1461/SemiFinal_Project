@@ -54,7 +54,6 @@
     + 해당 데이터를 호출하거나, 리뷰추가(INSERT),리뷰삭제(DELETE)를 이용하여 데이터를 저장 및 호출함.
         + [DB_ERD](./presentation/DB/2조_DB_ERD.pdf) - 링크 수정 必 
 + 개발
-    + 
 
 ### GitHub 구조
 - presentation : 국비지원 교육과정중 프로젝트 발표를 위해 작성
