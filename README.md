@@ -7,12 +7,17 @@
     + 2021.02.04 ~ 2021.02.22 참여인원 : 6명
 + Members
     + [강민규](https://github.com/min1461/)
-        + 나의 기여도 : 40% 
+        + 나의 기여도 : GUI(5%), SERVER(15%), DB(55%), 전체(15%) 
     + [김진환](https://github.com/stux12/)
+        + 기여도 : GUI(21%), SERVER(30%), DB(15%), 전체(22%)
     + 엄희경
+        + 기여도 : GUI(20%), SERVER(20%), DB(15%), 전체(20%)
     + [이해준](https://github.com/dlgowns)
+        + 기여도 : GUI(18%), SERVER(10%), DB(5%), 전체(14%)
     + [최유정](https://github.com/sun0326)
+        + 기여도 : GUI(13%), SERVER(12.5%), DB(5%), 전체(10%)
     + [함지웅](https://github.com/dbtkaqkf)
+        + 기여도 : GUI(23%), SERVER(12.5%), DB(5%), 전체(19%)
         
 ### Development Environment
 + OS
